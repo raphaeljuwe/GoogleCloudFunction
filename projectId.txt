@@ -1,0 +1,10 @@
+ You can connect your Cloud Functions to Cloud SQL instances using a local socket interface provided in the Cloud Functions execution environment.
+ 
+ API [cloudfunctions.googleapis.com] not enabled on project
+[621774821777]. Would you like to enable and retry (this will take a
+few minutes)? (y/N)?  Y
+
+Enabling service cloudfunctions.googleapis.com on project 621774821777...
+Waiting for async operation operations/tmo-acf.0ebef022-e651-4bbd-851c-4906848531f1 to complete...
+Operation finished successfully. The following command can describe the Operation details:
+ gcloud services operations describe operations/tmo-acf.0ebef022-e651-4bbd-851c-4906848531f1
